@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="robots" content="noindex, nofollow">
+  <title>Ask Your Creative Compass</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+Bengali&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f7fa;
+      color: #333;
+    }
+
+    :lang(bn) {
+      font-family: 'Noto Sans Bengali', sans-serif;
+      font-size: 1.1rem;
+      line-height: 1.8;
+    }
+
+    :lang(en) {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: auto;
+      padding: 20px;
+      background: #ffffff;
+    }
+
+    h1 {
+      font-size: 2rem;
+      color: #2c3e50;
+      margin-bottom: 1.5rem;
+    }
+
+    h2.prompt-title {
+      font-size: 1.4rem;
+      margin-top: 1rem;
+      color: #34495e;
+    }
+
+    .prompt-box {
+      margin-top: 2rem;
+      padding: 1.5rem;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      background-color: #ffffff;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+      position: relative;
+    }
+
+    .prompt-description {
+      font-style: italic;
+      margin-top: 0.5rem;
+      margin-bottom: 1rem;
+      color: #555;
+      background: #f0f3f6;
+      padding: 10px;
+      border-left: 4px solid #3498db;
+    }
+
+    .prompt-body {
+      background: #f9fbfd;
+      padding: 15px;
+      border-left: 4px solid #2ecc71;
+      line-height: 1.7;
+      margin-top: 10px;
+    }
+
+    .copy-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      padding: 5px 10px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      background-color: #3498db;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+    }
+
+    a {
+      color: #007acc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 15px;
+      }
+
+      h1 {
+        font-size: 1.6rem;
+      }
+
+      h2.prompt-title {
+        font-size: 1.2rem;
+      }
+
+      .copy-btn {
+        top: auto;
+        bottom: 10px;
+        right: 10px;
+      }
+    }
+  </style>
+</head>
+<BODY oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
+  <div class="container">
+    <h1>Ask Your Creative Compass</h1>
+
+
+    <!-- PROMPT BOX 1 -->
+    <div class="prompt-box">
+      <h2 class="prompt-title">Prompt:</h2>
+      <div class="prompt-description">
+        Copy it, paste it into Notepad, edit it, and use it.
+      </div>
+      <button class="copy-btn" onclick="copyPrompt('prompt-text-1')">Copy Prompt</button>
+      <div class="prompt-body" id="prompt-text-1">
+        <p>Could you please give me a step-by-step walkthrough of how to use this prompt in Leonardo?</p>
+<p>This guide must serve as my creative compass. It should help me 'execute the what' with consistency and strategy, without losing focus or voice.</p>
+<p>Please include every minute detail of the settings in Leonardo required to create the best, professional, and eye-catching YouTube video thumbnail image that meets international marketing standards.</p>
+<p>Write your answer in modern, elegant Bengali (India) that is easy to understand, yet maintains an international marketing standard &mdash; as if you're a close friend and a trusted authority on the topic, speaking directly to the reader in a one-on-one, face-to-face tone.</p>
+
+
+      </div>
+    </div>
+
+    <!-- You can copy this box and change IDs/titles/descriptions for more prompts -->
+
+  </div>
+
+  <script>
+    function copyPrompt(id) {
+      const prompt = document.getElementById(id);
+      const text = prompt.innerText || prompt.textContent;
+
+      navigator.clipboard.writeText(text).then(() => {
+        alert('Prompt copied to clipboard!');
+      }).catch(err => {
+        alert('Failed to copy: ' + err);
+      });
+    }
+  </script>
+</body>
+</html>
