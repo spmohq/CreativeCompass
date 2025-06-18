@@ -1,0 +1,152 @@
+I want to learn how to use ChatGPT to help me with my classwork, homework, and exam preparation in Geomatry
+
+I am not an expert in ChatGPT, and I have no prior experience with online learning tools. However, I have heard that ChatGPT can support students in their studies.
+
+I am a student of Class X, studying in a Bengali medium school, and I am not very fluent in English.
+
+Could you please create a Task-Specific Course for me using the six key areas: Knowledge, Skills, Devices, Apps, Miscellaneous and the step-by-step walkthrough. Also, please provide its Table of Contents.
+
+Please follow this special instruction carefully:
+
+A Specific Task refers to an action that must be performed to achieve a particular goal. A course designed solely to teach this task is called a Task-Specific Course.
+In contrast, a General or Non-Specific Task involves performing a variety of related tasks. A course that introduces these tasks without going into detailed, step-by-step methods—offering only an overview—is referred to as a Basic Foundation Course.
+Please distinguish between Task-Specific and Basic Foundation Courses in your responses accordingly.
+
+
+Task-Specific Course
+====================
+
+I want to learn how to use ChatGPT to help me with my classwork, homework, and exam preparation in Geometry.
+
+I am not an expert in ChatGPT, and I have no prior experience with online learning tools. However, I have heard that ChatGPT can support students in their studies.
+
+I am a student of Class X, studying in a Bengali medium school, and I am not very fluent in English.
+
+Could you please create a Task-Specific Course for me in Geometry using the six key areas: Knowledge, Skills, Devices, Apps, Miscellaneous, and a step-by-step walkthrough? Also, please provide its Table of Contents.
+
+Please follow this special instruction carefully:
+
+A Specific Task refers to an action that must be performed to achieve a particular goal. A course designed solely to teach this task is called a Task-Specific Course.
+In contrast, a General or Non-Specific Task involves performing a variety of related tasks. A course that introduces these tasks without going into detailed, step-by-step methods—offering only an overview—is referred to as a Basic Foundation Course.
+Please distinguish between Task-Specific and Basic Foundation Courses in your responses accordingly.
+
+Basic Foundation Courses
+========================
+
+I want to learn how to use ChatGPT to help me with my classwork, homework, and exam preparation in Geometry.
+
+I am not an expert in ChatGPT, and I have no prior experience with online learning tools. However, I have heard that ChatGPT can support students in their studies.
+
+I am a student of Class X, studying in a Bengali medium school, and I am not very fluent in English.
+
+Could you please create a Basic Foundation Course for me in Geometry using the six key areas: Knowledge, Skills, Devices, Apps, Miscellaneous, and a step-by-step overview (not detailed walkthroughs)? Also, please provide its Table of Contents.
+
+Please follow this special instruction carefully:
+
+A Specific Task refers to an action that must be performed to achieve a particular goal. A course designed solely to teach this task is called a Task-Specific Course.
+In contrast, a General or Non-Specific Task involves performing a variety of related tasks. A course that introduces these tasks without going into detailed, step-by-step methods—offering only an overview—is referred to as a Basic Foundation Course.
+Please distinguish between Task-Specific and Basic Foundation Courses in your responses accordingly.
+
+
+Permutation and Combination:
+
+Basic Foundation Courses
+========================
+
+I want to understand the basics of Permutation and Combination with the help of ChatGPT, so I can build a strong foundation for future learning.
+
+I am not an expert in ChatGPT, and I have no prior experience with online learning tools. However, I have heard that ChatGPT can help students like me.
+
+I am a student of Class X, studying in a Bengali medium school, and I am not very fluent in English.
+
+Could you please create a Basic Foundation Course for Permutation and Combination, using the six key areas: Knowledge, Skills, Devices, Apps, Miscellaneous, and provide a general step-by-step overview (not detailed methods)? Also, please include the Table of Contents.
+
+Please follow this special instruction carefully:
+
+A Specific Task refers to an action that must be performed to achieve a particular goal. A course designed solely to teach this task is called a Task-Specific Course.
+In contrast, a General or Non-Specific Task involves performing a variety of related tasks. A course that introduces these tasks without going into detailed, step-by-step methods—offering only an overview—is referred to as a Basic Foundation Course.
+Please distinguish between Task-Specific and Basic Foundation Courses in your responses accordingly.
+
+
+Task-Specific Course
+====================
+
+I want to master Permutation and Combination with the help of ChatGPT to improve my performance in classwork, homework, and exam preparation.
+
+I am not an expert in ChatGPT, and I have no prior experience with online learning tools. However, I have heard that ChatGPT can help students like me.
+
+I am a student of Class X, studying in a Bengali medium school, and my English is not very strong.
+
+Could you please create a Task-Specific Course focused only on Permutation and Combination, using the six key areas: Knowledge, Skills, Devices, Apps, Miscellaneous, and include a clear step-by-step walkthrough? Also, please provide its Table of Contents.
+
+Please follow this special instruction carefully:
+
+A Specific Task refers to an action that must be performed to achieve a particular goal. A course designed solely to teach this task is called a Task-Specific Course.
+In contrast, a General or Non-Specific Task involves performing a variety of related tasks. A course that introduces these tasks without going into detailed, step-by-step methods—offering only an overview—is referred to as a Basic Foundation Course.
+Please distinguish between Task-Specific and Basic Foundation Courses in your responses accordingly.
+
+
+
+Absolutely! Below are the **most clear and effective prompts** for each of your two needs. These prompts are designed to guide ChatGPT to deliver structured, organized learning materials—ideal for your style and goals.
+
+---
+
+### ✅ **1. Prompt to Merge Both Courses into a Learning Roadmap**
+
+**Prompt:**
+
+I want to learn **Permutation and Combination** using ChatGPT, starting from the basics and moving toward mastery.
+
+You have already created two types of courses for me:
+
+1. A **Basic Foundation Course** (overview-level)
+2. A **Task-Specific Course** (step-by-step mastery)
+
+Could you please **combine both courses into a single, structured Learning Roadmap** that shows:
+
+* What to study first (from the Basic Foundation Course)
+* When and how to transition into the Task-Specific Course
+* Key milestones or checkpoints
+* The order of concepts to follow
+
+Please keep the roadmap **clear, progressive, and student-friendly**, considering that I am a **Class X student** from a **Bengali medium school**, with **limited fluency in English** and no prior experience with ChatGPT or online learning.
+
+Also, please continue to follow this special instruction:
+
+> A **Specific Task** refers to an action that must be performed to achieve a particular goal. A course designed solely to teach this task is called a **Task-Specific Course**.
+> In contrast, a **General** or **Non-Specific Task** involves performing a variety of related tasks. A course that introduces these tasks without going into detailed, step-by-step methods—offering only an overview—is referred to as a **Basic Foundation Course**.
+> Please distinguish between **Task-Specific** and **Basic Foundation Courses** in your responses accordingly.
+
+---
+
+### ✅ **2. Prompt to Break Down a Course into a Weekly Study Plan (with Daily Plans)**
+
+**Prompt:**
+
+Could you please **break down the Task-Specific Course on Permutation and Combination** into a **weekly study plan** with **daily learning goals**?
+
+Here’s what I want the plan to include:
+
+* **How many weeks** it will take to complete
+* **Weekly themes** or focus areas
+* **Daily learning objectives**, examples, or activities
+* A balance between theory, practice, and using ChatGPT effectively
+* Lightweight and student-friendly pace (I study in **Class X**, Bengali medium, and I’m not very fluent in English)
+
+This should help me follow a **disciplined, guided schedule** to master the topic step by step.
+
+Please also continue to follow this special instruction:
+
+> A **Specific Task** refers to an action that must be performed to achieve a particular goal. A course designed solely to teach this task is called a **Task-Specific Course**.
+> In contrast, a **General** or **Non-Specific Task** involves performing a variety of related tasks. A course that introduces these tasks without going into detailed, step-by-step methods—offering only an overview—is referred to as a **Basic Foundation Course**.
+> Please distinguish between **Task-Specific** and **Basic Foundation Courses** in your responses accordingly.
+
+---
+
+Let me know if you'd like a version of this for a different subject (e.g., Algebra, Trigonometry, Physics), or for a longer-term study timeline (e.g., 3 months or 6 months)!
+
+
+
+
+
+
